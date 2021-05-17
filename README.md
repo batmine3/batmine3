@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🔭 I’m currently working on the Cegabox 
+- 💬 Ask me about security, python, php, docker
+- 📫 How to reach me: baptistedemarche@bdemarche.fr
