@@ -78,4 +78,7 @@ Here are some ideas to get you started:
   <a href="#" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg" alt="ubuntu" width="40" height="40"/>
   </a>
+  <a href="#" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ssh/ssh-original.svg" alt="ssh" width="40" height="40"/>
+  </a>
 </p>
