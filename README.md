@@ -17,3 +17,5 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on the Cegabox 
 - 💬 Ask me about security, python, php, docker
 - 📫 How to reach me: baptistedemarche@bdemarche.fr
+
+<h3>My skills:</h3>
