@@ -22,6 +22,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: baptistedemarche@bdemarche.fr
 
 <!--<script src="https://tryhackme.com/badge/280869"></script>-->
+<img src="https://tryhackme-badges.s3.amazonaws.com/batmine3.png" alt="TryHackMe">
 
 <h3>My skills:</h3>
 
