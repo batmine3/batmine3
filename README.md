@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about security, python, php, docker
 - 📫 How to reach me: baptistedemarche@bdemarche.fr
 
-<script src="https://tryhackme.com/badge/280869"></script>
+<!--<script src="https://tryhackme.com/badge/280869"></script>-->
 
 <h3>My skills:</h3>
 
